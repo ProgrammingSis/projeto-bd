@@ -3,7 +3,7 @@
 <h1> Um trabalho de planejamento e criação de um banco de dados </h1>
 
 # Justificativa:
-  A criação de um banco de dados para uma clínica veterinária é essencial para organizar e centralizar informações dos pacientes (animais) e seus tutores, além de permitir um fácil acesso ao histórico de tratamentos, consultas e vacinas. Isso facilita a gestão do atendimento e melhora a qualidade do cuidado, permitindo que veterinários e funcionários obtenham rapidamente informações importantes. Com o banco de dados, também é possível gerar relatórios para análise de desempenho, controle financeiro e estoque de medicamentos, contribuindo para a eficiência da clínica.
+  A criação de um banco de dados para uma clínica veterinária é essencial para organizar e centralizar informações dos pacientes (animais) e seus tutores, além de permitir um fácil acesso ao histórico de tratamentos, consultas e vacina. Permitindo, assim, a gestão do atendimento e melhora da qualidade do cuidado, permitindo que funcionários obtenham rapidamente informações importantes para o negócio. Ademais, também é possível gerar relatórios para análise de desempenho, controle financeiro e estoque de medicamentos, contribuindo para a eficiência da clínica ao analisar os registros gerados pelo banco de dados.
 
 ## Passo a passo do projeto:
 
